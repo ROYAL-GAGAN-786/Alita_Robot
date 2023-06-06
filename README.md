@@ -60,6 +60,10 @@ It really motivates me to continue this project further.
 - Get your `API_ID` and `API_HASH` from [here](https://my.telegram.org/)
 - Get your Bot Token from [@BotFather](https://t.me/BotFather)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ROYAL-GAGAN-786/Channel-Post-Filter-Bot)
+
+
+
 **Note:** As it is banned with an unknown reason in heroku, follow the below steps carefully!
 - First Fork this repo :)
 - secondly, create an empty app in the Heroku, with a custom app name; and select Europe region for faster speed.
